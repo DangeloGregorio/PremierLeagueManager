@@ -4,10 +4,16 @@
  */
 package dati;
 
+import java.util.List;
+import modello.Giocatore;
+import modello.SquadraAvversaria;
+
 /**
  *
  * @author dangelo.gregorio
  */
-public class SorgenteDati {
-    
+
+public interface SorgenteDati {
+    List<Giocatore> caricaGiocatori() throws Exception;
+    List<SquadraAvversaria> caricaAvversari() throws Exception;
 }
