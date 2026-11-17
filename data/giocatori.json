@@ -1,0 +1,30 @@
+[
+  { "id": "p1", "nome": "Alisson Becker", "ruolo": "POR", "squadraReale": "Liverpool", "prezzo": 38, "puntiForza": 89, "urlFoto": "" },
+  { "id": "p2", "nome": "David Raya", "ruolo": "POR", "squadraReale": "Arsenal", "prezzo": 32, "puntiForza": 85, "urlFoto": "" },
+  { "id": "p3", "nome": "Guglielmo Vicario", "ruolo": "POR", "squadraReale": "Tottenham", "prezzo": 25, "puntiForza": 82, "urlFoto": "" },
+  { "id": "p4", "nome": "Jordan Pickford", "ruolo": "POR", "squadraReale": "Everton", "prezzo": 20, "puntiForza": 79, "urlFoto": "" },
+
+  { "id": "d1", "nome": "William Saliba", "ruolo": "DIF", "squadraReale": "Arsenal", "prezzo": 42, "puntiForza": 88, "urlFoto": "" },
+  { "id": "d2", "nome": "Virgil van Dijk", "ruolo": "DIF", "squadraReale": "Liverpool", "prezzo": 40, "puntiForza": 88, "urlFoto": "" },
+  { "id": "d3", "nome": "Ruben Dias", "ruolo": "DIF", "squadraReale": "Man City", "prezzo": 38, "puntiForza": 87, "urlFoto": "" },
+  { "id": "d4", "nome": "Trent Alexander-Arnold", "ruolo": "DIF", "squadraReale": "Liverpool", "prezzo": 36, "puntiForza": 86, "urlFoto": "" },
+  { "id": "d5", "nome": "Destiny Udogie", "ruolo": "DIF", "squadraReale": "Tottenham", "prezzo": 24, "puntiForza": 81, "urlFoto": "" },
+  { "id": "d6", "nome": "Micky van de Ven", "ruolo": "DIF", "squadraReale": "Tottenham", "prezzo": 26, "puntiForza": 82, "urlFoto": "" },
+  { "id": "d7", "nome": "Ezri Konsa", "ruolo": "DIF", "squadraReale": "Aston Villa", "prezzo": 20, "puntiForza": 79, "urlFoto": "" },
+  { "id": "d8", "nome": "Marc Guehi", "ruolo": "DIF", "squadraReale": "Crystal Palace", "prezzo": 22, "puntiForza": 80, "urlFoto": "" },
+
+  { "id": "c1", "nome": "Rodri", "ruolo": "CEN", "squadraReale": "Man City", "prezzo": 55, "puntiForza": 91, "urlFoto": "" },
+  { "id": "c2", "nome": "Declan Rice", "ruolo": "CEN", "squadraReale": "Arsenal", "prezzo": 48, "puntiForza": 88, "urlFoto": "" },
+  { "id": "c3", "nome": "Martin Odegaard", "ruolo": "CEN", "squadraReale": "Arsenal", "prezzo": 50, "puntiForza": 89, "urlFoto": "" },
+  { "id": "c4", "nome": "Cole Palmer", "ruolo": "CEN", "squadraReale": "Chelsea", "prezzo": 46, "puntiForza": 87, "urlFoto": "" },
+  { "id": "c5", "nome": "Bruno Guimaraes", "ruolo": "CEN", "squadraReale": "Newcastle", "prezzo": 35, "puntiForza": 84, "urlFoto": "" },
+  { "id": "c6", "nome": "Alexis Mac Allister", "ruolo": "CEN", "squadraReale": "Liverpool", "prezzo": 34, "puntiForza": 84, "urlFoto": "" },
+  { "id": "c7", "nome": "Morgan Gibbs-White", "ruolo": "CEN", "squadraReale": "Nottm Forest", "prezzo": 22, "puntiForza": 79, "urlFoto": "" },
+
+  { "id": "a1", "nome": "Erling Haaland", "ruolo": "ATT", "squadraReale": "Man City", "prezzo": 75, "puntiForza": 93, "urlFoto": "" },
+  { "id": "a2", "nome": "Mohamed Salah", "ruolo": "ATT", "squadraReale": "Liverpool", "prezzo": 68, "puntiForza": 91, "urlFoto": "" },
+  { "id": "a3", "nome": "Bukayo Saka", "ruolo": "ATT", "squadraReale": "Arsenal", "prezzo": 60, "puntiForza": 89, "urlFoto": "" },
+  { "id": "a4", "nome": "Alexander Isak", "ruolo": "ATT", "squadraReale": "Newcastle", "prezzo": 45, "puntiForza": 85, "urlFoto": "" },
+  { "id": "a5", "nome": "Ollie Watkins", "ruolo": "ATT", "squadraReale": "Aston Villa", "prezzo": 40, "puntiForza": 84, "urlFoto": "" },
+  { "id": "a6", "nome": "Jean-Philippe Mateta", "ruolo": "ATT", "squadraReale": "Crystal Palace", "prezzo": 24, "puntiForza": 78, "urlFoto": "" }
+]
