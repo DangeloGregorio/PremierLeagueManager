@@ -1,8 +1,8 @@
 [
-  { "id": "t1", "nome": "Crystal Palace", "stadio": "Selhurst Park", "puntiDifficolta": 865, "premioCrediti": 30 },
-  { "id": "t2", "nome": "Aston Villa", "stadio": "Villa Park", "puntiDifficolta": 905, "premioCrediti": 50 },
-  { "id": "t3", "nome": "Tottenham Hotspur", "stadio": "Tottenham Hotspur Stadium", "puntiDifficolta": 920, "premioCrediti": 65 },
-  { "id": "t4", "nome": "Liverpool", "stadio": "Anfield", "puntiDifficolta": 955, "premioCrediti": 90 },
-  { "id": "t5", "nome": "Arsenal", "stadio": "Emirates Stadium", "puntiDifficolta": 960, "premioCrediti": 95 },
-  { "id": "t6", "nome": "Manchester City", "stadio": "Etihad Stadium", "puntiDifficolta": 975, "premioCrediti": 120 }
+  { "id": "s1", "nome": "Crystal Palace", "stadio": "Selhurst Park", "puntiDifficolta": 865, "premioCrediti": 30 },
+  { "id": "s2", "nome": "Aston Villa", "stadio": "Villa Park", "puntiDifficolta": 905, "premioCrediti": 50 },
+  { "id": "s3", "nome": "Tottenham Hotspur", "stadio": "Tottenham Hotspur Stadium", "puntiDifficolta": 920, "premioCrediti": 65 },
+  { "id": "s4", "nome": "Liverpool", "stadio": "Anfield", "puntiDifficolta": 955, "premioCrediti": 90 },
+  { "id": "s5", "nome": "Arsenal", "stadio": "Emirates Stadium", "puntiDifficolta": 960, "premioCrediti": 95 },
+  { "id": "s6", "nome": "Manchester City", "stadio": "Etihad Stadium", "puntiDifficolta": 975, "premioCrediti": 120 }
 ]
